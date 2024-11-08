@@ -1,7 +1,5 @@
-package operacoesBasicas;
+package list.operacoesBasicas;
 
-
-import operacoesBasicas.Item;
 
 import java.util.ArrayList;
 import java.util.Iterator;
