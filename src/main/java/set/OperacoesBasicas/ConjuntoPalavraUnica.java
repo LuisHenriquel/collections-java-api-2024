@@ -44,6 +44,7 @@ public class ConjuntoPalavraUnica {
         conjuntoLinguagens.adicionarPalavra("JavaScript");
         conjuntoLinguagens.adicionarPalavra("Python");
         conjuntoLinguagens.adicionarPalavra("C++");
+        conjuntoLinguagens.adicionarPalavra("C");
         conjuntoLinguagens.adicionarPalavra("Ruby");
         conjuntoLinguagens.exibirPalavrasUnicas();
         conjuntoLinguagens.removerPalavra("Python");
